@@ -2,7 +2,7 @@
 #include <math.h>
 int main()
 {
-    printf("-----NAME:AAGAM JAIN ----\n-----SID:23151201----\n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
     int rem, place = 0, octal, tempOctal, decimal = 0;
     printf("Enter any octal number: ");
     scanf("%d", &octal);
