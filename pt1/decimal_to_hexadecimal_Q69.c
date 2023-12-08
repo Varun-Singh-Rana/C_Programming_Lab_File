@@ -2,7 +2,7 @@
 #include <string.h>
 int main()
 {
-    printf("-----NAME:AAGAM JAIN ----\n-----SID:23151201----\n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
     char HEXVALUE[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'};
     long long decimal, tempDecimal;
     char hex[65];
