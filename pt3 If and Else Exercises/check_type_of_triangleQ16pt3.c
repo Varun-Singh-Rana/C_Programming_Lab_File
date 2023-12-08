@@ -2,7 +2,7 @@
 
 int main()
 {
-    rintf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
     int side1, side2, side3;
 
     /* Input sides of a triangle */
