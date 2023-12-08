@@ -2,7 +2,7 @@
 #include <math.h>
 int main()
 {
-    printf("Raghav Maheshwari \n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
     
     int N=0,base=2,binary,decimal=0,tempBinary;
     printf("Enter binary number: ");
