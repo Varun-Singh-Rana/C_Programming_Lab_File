@@ -2,7 +2,7 @@
 #include <string.h>
 int main()
 {
-    printf("-----NAME:AAGAM JAIN ----\n-----SID:23151201----\n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
     
     char hex[17], bin[65] = "";
     int i = 0;
