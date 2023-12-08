@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("-----NAME:AAGAM JAIN ----\n-----SID:23151201----\n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
 
     int OCTALVALUES[] = {0, 1, 10, 11, 100, 101, 110, 111};
     int rem, octal, tempOctal, binary, place;
