@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("-----NAME:AAGAM JAIN ----\n-----SID:23151201----\n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
 
     int rem, place, tempDecimal, binary ,decimal;
     printf("Enter decimal number: ");
