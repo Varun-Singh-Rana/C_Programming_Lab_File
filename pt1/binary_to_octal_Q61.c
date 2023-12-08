@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("Raghav Maheshwari \n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
 
     int octalConstant[] = {0, 1, 10, 11, 100, 101, 110, 111};
     int digit, place=1, i, binary, octal=0, tempBinary;
