@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("-----NAME:AAGAM JAIN----\n-----SID:23151201----\n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
     int i, rem, place = 1, decimal, tempDecimal, octal = 0;
     printf("Enter any decimal number: ");
     scanf("%d", &decimal);
