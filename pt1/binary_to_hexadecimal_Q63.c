@@ -2,7 +2,7 @@
 #include <string.h>
 int main()
 {
-    printf("-----NAME:AAGAM JAIN ----\n-----SID:23151201----\n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
     int hexConstant[] = {0, 1, 10, 11, 100, 101, 110, 111, 1000, 
                          1001, 1010, 1011, 1100, 1101, 1110, 1111};
 
