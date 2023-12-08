@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("Raghav Maheshwari \n");
+    printf("-----NAME:VARUN SINGH RANA ----\n-----SID:231601117----\n");
     int i, carry=1, SIZE=8;
     char binary[SIZE + 1], onesComp[SIZE + 1], twosComp[SIZE + 1];
     printf("Enter %d bit binary value: ", SIZE);
